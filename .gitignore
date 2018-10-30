@@ -38,12 +38,13 @@ bootstrap.css
 bootstrap.js
 bootstrap.json
 bootstrap.jsonp
-build/
+/build
 classic.json
 classic.jsonp
-extjs/*
+# extjs/**
 modern.json
 modern.jsonp
+modern/
 resources/sass/.sass-cache/
 resources/.arch-internal-preview.css
 .arch-internal-preview.css
