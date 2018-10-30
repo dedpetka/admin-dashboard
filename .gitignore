@@ -42,6 +42,7 @@ bootstrap.jsonp
 classic.json
 classic.jsonp
 # extjs/**
+extjs/**/test
 modern.json
 modern.jsonp
 modern/
