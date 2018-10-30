@@ -41,7 +41,7 @@ bootstrap.jsonp
 build/
 classic.json
 classic.jsonp
-extjs/
+extjs/*
 modern.json
 modern.jsonp
 resources/sass/.sass-cache/
